@@ -5,6 +5,10 @@ function hackerFunction() {
 	echo "Hacker Man 400";
 }
 
+function lakshanasFunction(){
+	echo "Lakshana";
+}
+
 
 function zaksnewFunction() {
 	echo 'I accidentally echoed stuff in Mr Emmells branch';
