@@ -2,7 +2,7 @@
 //This is a first file!
 
 function emmellsFunction() {
-	echo "Mr. Emmell";
+	echo "Hacker Man 400";
 }
 
 function zaksnewFunction() {
