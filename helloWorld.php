@@ -18,4 +18,8 @@ function Jfunction()
 function ahmedsFunction() {
 	echo "Ahmed Wrote This Line";
 }
+
+function kylieFunction() {
+	echo "Hello! It's Kylie!!";
+}
 ?>
