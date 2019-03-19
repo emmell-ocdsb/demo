@@ -4,4 +4,8 @@
 function emmellsFunction() {
 	echo "Mr. Emmell";
 }
+
+function paigesFunction() {
+	echo "Paige McBride";
+}
 ?>
