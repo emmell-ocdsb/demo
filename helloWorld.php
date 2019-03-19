@@ -4,4 +4,9 @@
 function emmellsFunction() {
 	echo "Mr. Emmell";
 }
+
+function Jfunction() 
+{
+	echo "greetings fellow students";
+}
 ?>
