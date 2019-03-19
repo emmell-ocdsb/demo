@@ -1,8 +1,13 @@
 <?php
 //This is a first file!
 
-function emmellsFunction() {
-	echo "Mr. Emmell";
+function hackerFunction() {
+	echo "Hacker Man 400";
+}
+
+
+function zaksnewFunction() {
+	echo 'I accidentally echoed stuff in Mr Emmells branch';
 }
 
 function Jfunction() 
