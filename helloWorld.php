@@ -1,5 +1,8 @@
 <?php
-//This is a first file!
+
+function PatrickFunction() {
+	echo "Hello, World";
+}
 
 function hackerFunction() {
 	echo "Hacker Man 400";
