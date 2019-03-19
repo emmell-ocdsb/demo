@@ -1,7 +1,9 @@
+<!doctype html>
+<html>
 <?php
-//This is a first file!
 
-function emmellsFunction() {
-	echo "Mr. Emmell";
+function PatrickFunction() {
+	echo "Hello, World";
 }
 ?>
+</html>
