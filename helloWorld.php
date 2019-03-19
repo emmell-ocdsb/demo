@@ -4,4 +4,8 @@
 function emmellsFunction() {
 	echo "Mr. Emmell";
 }
+
+function dimasFunction() {
+	echo "Hello Za Warudo";
+}
 ?>
