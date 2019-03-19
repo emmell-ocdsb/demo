@@ -6,6 +6,6 @@ function emmellsFunction() {
 }
 
 function RohansFunction() {
-	echo "Hello World";
+	echo "Hello World I an smelly Rohan";
 }
 ?>
