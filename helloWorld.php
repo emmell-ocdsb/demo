@@ -4,4 +4,7 @@
 function emmellsFunction() {
 	echo "Mr. Emmell";
 }
+function conradsFunction() {
+	echo "Hello Warudo";
+}
 ?>
