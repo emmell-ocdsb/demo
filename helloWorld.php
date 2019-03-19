@@ -15,4 +15,8 @@ function Jfunction()
 	echo "greetings fellow students";
 }
 
+function zaksEpicFunction() {
+	echo 'Whats poppin my dudes?';
+}
+
 ?>
