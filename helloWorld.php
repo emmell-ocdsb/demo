@@ -18,8 +18,10 @@ function Jfunction()
 function ahmedsFunction() {
 	echo "Ahmed Wrote This Line";
 }
-function zaksEpicFunction() {
-	echo 'Whats poppin my dudes?';
-}
 
+
+function kylieFunction() {
+	echo "Hello! It's Kylie!!";
+}
 ?>
+
