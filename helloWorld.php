@@ -4,6 +4,11 @@ function PatrickFunction() {
 	echo "Hello, World";
 }
 
+
+function paigesFunction() {
+	echo "Paige McBride";
+}
+
 function hackerFunction() {
 	echo "Hacker Man 400";
 }
